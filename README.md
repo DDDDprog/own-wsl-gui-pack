@@ -28,7 +28,7 @@ A comprehensive solution for running GUI applications in Windows Subsystem for L
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/wsl-gui-pack.git
+git clone https://github.com/DDDDprog/own-wsl-gui-pack.git
 cd wsl-gui-pack
 ```
 
@@ -120,10 +120,6 @@ For GUI applications to work, you'll need an X Server running on Windows:
 ### Logs
 
 Logs are stored in `~/.wsl-gui-pack/logs/` and can help diagnose issues.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
