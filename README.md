@@ -1,8 +1,9 @@
-# WSL GUI Pack - Professional Edition
+![image](https://github.com/user-attachments/assets/79d4ef18-b5b5-43a8-b5e6-5384a0f5b98e)# WSL GUI Pack - Professional Edition
 
 A comprehensive solution for running GUI applications in Windows Subsystem for Linux.
 
-![WSL GUI Pack Logo](https://i.imgur.com/RPGWa2o.png)
+![WSL GUI Pack Logo](https://pics.craiyon.com/2023-11-04/57324fe7d7cc405b938239013874cebe.webp)
+
 
 ## Features
 
